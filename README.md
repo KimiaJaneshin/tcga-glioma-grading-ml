@@ -87,14 +87,15 @@ pip install numpy pandas scikit-learn xgboost lightgbm pytorch-tabnet shap matpl
 
 ### Running the Pipeline
 Place your dataset (`TCGA_InfoWithGrade.csv`) in the root directory and execute the main pipeline script:
-bash
+```bash
 python glioma_grading.py
 
 ---
+
 ## Author
-**[Kimia Janeshin]**
+**Kimia Janeshin**
 * GitHub: [@KimiaJaneshin](https://github.com/KimiaJaneshin)
-* Email: [kimiajsh673000@gmail.com]
+* Email: kimiajsh673000@gmail.com
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
@@ -108,4 +109,5 @@ If you use this code or findings in your research, please cite this repository:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/KimiaJaneshin/tcga-glioma-grading-ml}}}
+  howpublished = {\url{https://github.com/KimiaJaneshin/tcga-glioma-grading-ml}}
+}
