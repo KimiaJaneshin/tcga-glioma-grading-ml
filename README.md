@@ -89,3 +89,22 @@ pip install numpy pandas scikit-learn xgboost lightgbm pytorch-tabnet shap matpl
 Place your dataset (`TCGA_InfoWithGrade.csv`) in the root directory and execute the main pipeline script:
 bash
 python glioma_grading.py
+
+## Author
+**[Kimia Janeshin]**
+* GitHub: [@KimiaJaneshin](https://github.com/KimiaJaneshin)
+* Email: [kimiajsh673000@gmail.com]
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## Citation
+If you use this code or findings in your research, please cite this repository:
+```bibtex
+@misc{Janeshin2026glioma,
+  author = {Kimia Janeshin},
+  title = {Predicting Glioma Grade (LGG vs. GBM) Using Clinical & Mutation Features},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/KimiaJaneshin/tcga-glioma-grading-ml}}}
