@@ -54,18 +54,18 @@ Below are the confusion matrices obtained using the optimized thresholds for eac
 
 | Model | Confusion Matrix |
 | :--- | :--- |
-| **Logistic Regression** | ![Logistic Regression](Logictic%20regression%20confusion%20matrix.png) |
-| **Random Forest** | ![Random Forest](Random%20forest%20confusion%20matrix.png) |
-| **XGBoost** | ![XGBoost](XGBoost%20confusion%20matrix.png) |
-| **LightGBM** | ![LightGBM](LightGBM%20confusion%20matrix.png) |
-| **TabNet** | ![TabNet](TabNet%20confusion%20matrix.png) |
+| **Logistic Regression** | ![Logistic Regression](Assets/Logictic%20regression%20confusion%20matrix.png) |
+| **Random Forest** | ![Random Forest](Assets/Random%20forest%20confusion%20matrix.png) |
+| **XGBoost** | ![XGBoost](Assets/XGBoost%20confusion%20matrix.png) |
+| **LightGBM** | ![LightGBM](Assets/LightGBM%20confusion%20matrix.png) |
+| **TabNet** | ![TabNet](Assets/TabNet%20confusion%20matrix.png) |
 
 ---
 
 ### Explainable AI (SHAP Summary)
 SHAP value analysis was executed using a `TreeExplainer` on the trained XGBoost model to understand individual feature impacts on grading predictions:
 
-![SHAP Summary Plot](SHAP.png)
+![SHAP Summary Plot](Assets/SHAP.png)
 
 ---
 
@@ -74,7 +74,7 @@ Decision Curve Analysis was performed to evaluate the clinical net benefit of de
 
 | Full Decision Curve | Target Threshold Zoom |
 | :---: | :---: |
-| ![DCA Full Curve](DCA%20full%20curve.png) | ![DCA Target Threshold](DCA%20target%20threshold.png) |
+| ![DCA Full Curve](Assets/DCA%20full%20curve.png) | ![DCA Target Threshold](Assets/DCA%20target%20threshold.png) |
 
 ---
 
