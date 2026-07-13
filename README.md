@@ -91,7 +91,6 @@ Place your dataset (`TCGA_InfoWithGrade.csv`) in the root directory and execute 
 python glioma_grading.py
 ```
 
----
 
 ## Author
 **Kimia Janeshin**
