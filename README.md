@@ -90,7 +90,7 @@ Place your dataset (`TCGA_InfoWithGrade.csv`) in the root directory and execute 
 bash
 python glioma_grading.py
 
-## Author
+### Author
 **[Kimia Janeshin]**
 * GitHub: [@KimiaJaneshin](https://github.com/KimiaJaneshin)
 * Email: [kimiajsh673000@gmail.com]
