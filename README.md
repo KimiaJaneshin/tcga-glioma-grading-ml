@@ -89,6 +89,7 @@ pip install numpy pandas scikit-learn xgboost lightgbm pytorch-tabnet shap matpl
 Place your dataset (`TCGA_InfoWithGrade.csv`) in the root directory and execute the main pipeline script:
 ```bash
 python glioma_grading.py
+```
 
 ---
 
